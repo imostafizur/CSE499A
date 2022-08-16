@@ -1,4 +1,3 @@
-# CSE499A
 
 ## Introduction
 
@@ -7,3 +6,6 @@
 
 #### Security layer 2 database security using blockchain technology. It is second a part of the project.
 <img src="image/CSE499_Layer_2.jpg" alt="Alt text" title="Layer_2" width="700" height="700">
+
+This idea came from this news
+https://indianexpress.com/article/explained/bangladesh-bank-robbery-north-korea-lazarus-heist-7375441/
